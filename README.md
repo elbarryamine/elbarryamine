@@ -1,8 +1,11 @@
+## Me:
 👋 Hi, I’m Amine.
-
 👀 I’m interested in typescript, graphql, react ,react native & nodejs.
-
 🌱 I’m always learning new things.
+👨🏻‍🎨 3+ years commercial experience
+
+## Portfolio:
+https://elbarryamine.com
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amineelbarry) 
