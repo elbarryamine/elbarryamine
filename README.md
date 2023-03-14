@@ -1,7 +1,10 @@
 ## Me:
 👋 Hi, I’m Amine.
+
 👀 I’m interested in typescript, graphql, react ,react native & nodejs.
+
 🌱 I’m always learning new things.
+
 👨🏻‍🎨 3+ years commercial experience
 
 ## Portfolio:
